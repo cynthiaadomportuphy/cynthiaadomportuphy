@@ -30,8 +30,12 @@ Hi there, I'am Cynthia :wave:.
 ### 📫 How to Find Me:
 
 :bulb: Medium Articles
+
 [LinkedIn](https://www.linkedin.com/in/adom-portuphy/)
+
 [My Kaggle](https://www.kaggle.com/cynthiaadomportuphy)
+
 [My Tableau](https://www.tableau.com/)
+
 
 
