@@ -32,10 +32,10 @@ Hi there, I'am Cynthia :wave:.
 - [My Tableau](https://public.tableau.com/app/profile/emily1618)
 
 How to find me: 
-* :bulb: Medium Articles
-* LinkedIn
-* Kaggle
-* Tableau
+:bulb: Medium Articles
+LinkedIn
+Kaggle
+Tableau
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
