@@ -1,11 +1,15 @@
+### :woman: About
+
 Hi there, I'am Cynthia :wave:.
 
-:hammer_and_wrench: I love numbers, analyzing data and solving problems.
+   :hammer_and_wrench: I love numbers, analyzing data and solving problems.
+   
+   :seedling: I'm addicted to learning and growing everyday.
+   
+   :family_man_woman_girl_boy: On the side, I love to support families and supprt them to build healthy homes (https://bridgingworldsglobal.org/)
 
-### 👩‍🎓 About
-- Enrolling in Master of Data Analytics.
 
-On the side, I love to support families and supprt them to build healthy homes (https://bridgingworldsglobal.org/)
+
 
 
 ### 🌟 Personal Projects
@@ -19,24 +23,16 @@ On the side, I love to support families and supprt them to build healthy homes (
 - [**Python:** Product Sales Data Analysis](https://github.com/emily1618/Data-Portfolio/blob/main/EDA/Products_Sales_Analysis.ipynb)
 - [**SQL + Tableau:** Exploring 2021 Covid World Data and Creating a Simple Dashboard](https://github.com/xtenix88/SQL) 
 
-
-### 💻 Machine Learning and Statistics Projects
-- [**Python:** Use Decision Tree Machine Learning Algorithm to Classify Brain Cancer Cell Sequence](https://github.com/emily1618/Statistics-and-Models/tree/main/Decision-Tree) 
-- [**Python:** KNN Model on RNA-seq](https://github.com/emily1618/Statistics-and-Models/tree/main/KNN-Model)
-- [**R:** Baking a Delicious Dessert in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
-- [**R:** Exploring Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
-
-
 ### 🔖 Resources
 - [Interview Cheatsheet for Entry Level Data Analyst Jobs](https://github.com/emily1618/Data-Portfolio/blob/main/CHEATSHEET/README.md)
 
 
-### 📫 Kaggle and Tableau
+### 📫 How to Find Me
 - [Kaggle Account](https://www.kaggle.com/emilyliang8/)
 - [My Tableau](https://public.tableau.com/app/profile/emily1618)
 
 How to find me: 
-* Medium Articles
+* :bulb: Medium Articles
 * LinkedIn
 * Kaggle
 * Tableau
