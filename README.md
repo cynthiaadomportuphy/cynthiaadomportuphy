@@ -21,7 +21,7 @@ Hi there, I'am Cynthia :wave:.
 
 ### 📫 How to Find Me:
 
-* :bulb: [Medium Articles](https://medium.com/)
+* :bulb: [My Medium]([https://medium.com/](https://medium.com/@cynthiaadomportuphy))
 
 * :dart: [LinkedIn](https://www.linkedin.com/in/adom-portuphy/)
 
