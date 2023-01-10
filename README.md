@@ -1,4 +1,5 @@
-Hi there, I'am Cynthia :wave.
+Hi there, I'am Cynthia :wave:.
+
 :hammer_and_wrench: I love numbers, analyzing data and solving problems.
 
 ### 👩‍🎓 About
