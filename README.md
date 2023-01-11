@@ -6,7 +6,7 @@ Hi there, I'm Cynthia :wave:.
    
    :seedling: I'm addicted to learning and growing everyday.
    
-   📖 I love to read at my spare time, and read about my experiences. Co-author: https://a.co/d/caSBYQK
+   📖 I love to read at my spare time, and write about my experiences. Co-author: https://a.co/d/caSBYQK
    
    :family_man_woman_girl_boy: On the side, I love to support families and support them to build healthy homes: https://bridgingworldsglobal.org/
    
