@@ -1,10 +1,12 @@
 ### :woman: About
 
-Hi there, I'am Cynthia :wave:.
+Hi there, I'm Cynthia :wave:.
 
    :hammer_and_wrench: I love numbers, analyzing data and solving problems.
    
    :seedling: I'm addicted to learning and growing everyday.
+   
+   📖 I love to read at my spare time, and read about my experiences. Co-author: https://www.amazon.com/Two-Worlds-War-Cultural-Immigrant/dp/1632215098/ref=sr_1_1?crid=3SEHY18WZOEEP&keywords=two+worlds+at+war&qid=1673415046&sprefix=two+worlds+at+war%2Caps%2C98&sr=8-1
    
    :family_man_woman_girl_boy: On the side, I love to support families and support them to build healthy homes: https://bridgingworldsglobal.org/
    
