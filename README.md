@@ -13,7 +13,7 @@ Hi there, I'm Cynthia :wave:.
 
 ### :chart_with_upwards_trend: Data Projects 
 - [**Excel +  R:** How to Improve and Expand the Market Share of a Fitness Company](https://github.com/cynthiaadomportuphy/Google_Analytics_BellabeatFitness) 
-- [**SQL + Tableau:** COVID](https://github.com/cynthiaadomportuphy/Google_Analytics_BellabeatFitness)
+- [**Excel, SQL + Tableau:** COVID Race, Income, and Age 65+ on Covid in NJ Counties](https://github.com/cynthiaadomportuphy/Impact_of_income_Aged_Race_On_Covid)
 - [**Excel + SQL + Tableau:** EDUCATION](https://github.com/cynthiaadomportuphy/Google_Analytics_BellabeatFitness)
 
 
