@@ -29,7 +29,7 @@ Hi there, I'm Cynthia :wave:.
 
 * :bar_chart: [My Kaggle](https://www.kaggle.com/cynthiaadomportuphy)
 
-* :chart_with_downwards_trend: [My Tableau](https://www.tableau.com/](https://public.tableau.com/app/profile/cynthia.adom.portuphy)
+* :chart_with_downwards_trend: [My Tableau](https://public.tableau.com/app/profile/cynthia.adom.portuphy)
 
 
 
